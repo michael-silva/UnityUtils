@@ -1,0 +1,12 @@
+{
+  "name": "com.michael-silva.unity-utils",
+  "version": "1.0.0",
+  "displayName": "Unity Utils",
+  "description": "A small library of reusable code shared between my personal projects",
+  "unity": "2021.3",
+  "author": {
+    "name": "Michael Silva",
+    "email": "michaelpereiradasilva@hotmail.com",
+    "url": "https://github.com/michael-silva"
+  }
+}
